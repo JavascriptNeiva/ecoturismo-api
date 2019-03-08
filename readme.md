@@ -1,5 +1,6 @@
 # requesitos
 
+- node.js
 - Docker
 - Docker-compose
 
